@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="res">Your spoken text will appear here...</string>
+    <string name="info">Tap on mic!</string>
+    <string name="enterText">Enter text that will be read by device</string>
+    <string name="speak">Speak</string>
+    <string name="stop">Stop</string>
+    <string name="clr">Clear</string>
+</resources>
